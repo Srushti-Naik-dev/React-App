@@ -1,3 +1,1 @@
-# React-App
-This is a website that guides your through Quick Talk
-A Real-time chat application 
+A simple landing page - first designed in figma and then coded in React. Hope you like it.
